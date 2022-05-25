@@ -1,3 +1,6 @@
+server:
+  port: 9981
+
 logging:
   level:
     root: info
